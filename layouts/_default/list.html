@@ -1,0 +1,9 @@
+{{- define "main" -}}
+<h1>{{ .Title }}</h1>
+{{- .Content -}}
+
+<!-- Remove edit meta 
+{{- partial "edit-meta.html" . -}} -->
+
+{{- partial "pagination.html" . -}}
+{{- end -}}
