@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "/"
+=======
+baseURL = "http://example.org/"
+>>>>>>> 53d2c64f58f111ea03ad08e312f1dbae85fa5038
 languageCode = "en-us"
 title = "Urban Pest Management"
 theme = "hugo-theme-techdoc"
