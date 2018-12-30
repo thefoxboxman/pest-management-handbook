@@ -1,0 +1,19 @@
+{
+  "name": "aupm_handbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefoxboxman/pest-management-handbook.git"
+  },
+  "author": "John De Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thefoxboxman/pest-management-handbook/issues"
+  },
+  "homepage": "https://github.com/thefoxboxman/pest-management-handbook#readme"
+}
