@@ -14,7 +14,7 @@ Assessment of the pest population in the urban environment can be difficult beca
 
 In some instances a knowledge of the pest population size would seem a bit of a waste of time or just plain irrelevant. However in commercial, and industrial situations, pest population monitoring will become a service in itself, as it has in agriculture. There is a trend in North America and Europe towards pest population assessment and treatment of only those areas where pests are at a problem level. The pest control company that won the contract to provide the clean up pest control service of the World Trade Centre in New York, USA after it was bombed (the first time) and left deserted for over a week, did so because their specification called for a pest monitoring and treatment as required strategy.
 
-The sticky board trap is becoming an increasingly sophisticated tool to assist technicians to monitor pest population. The real advances have been made in the ability of the attractant to select and attract the target pest successfully.
+The sticky board trap is handy tool to assist technicians to monitor pest population. The real advances have been made in the ability of the attractant to select and attract the target pest successfully.
 
 In fact, some brands of sticky traps are rapidly becoming an effective physical control method because of their reliability and design.
 
