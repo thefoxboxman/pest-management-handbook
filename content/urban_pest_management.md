@@ -3,10 +3,9 @@ title: "Urban Pest Management"
 date: 2018-12-30T15:26:15Z
 draft: false
 menu: "main"
-weight: 20
+
 
 ---
-*Urban Pest Management - An Integrated Approach*
 
 Urban pest management is a complex task. Technicians have to balance the client needs, wants and expectation, with the client's ability or willingness to pay. Technicians also consider the safety of the client, the general public and the environment,  the sensitivity and condition of the situation and the requirements of the control measures.
 
