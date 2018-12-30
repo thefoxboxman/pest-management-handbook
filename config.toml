@@ -49,9 +49,9 @@ sectionPageMenu = "main"
     weight = 1
 
 		
-
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/thefox_man"
-    weight = 3
+# remove twitter link option
+# [[menu.main]]
+#    name = "Twitter"
+#    url = "https://twitter.com/thefox_man"
+#    weight = 3
 

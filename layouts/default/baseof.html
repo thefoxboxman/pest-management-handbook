@@ -6,14 +6,18 @@
 </head>
 <body>
 <div class="container">
+
 <!--{{- partial "notification.html" . -}} note: not in use -->
 {{- partial "header.html" . -}}
-{{- partial "main-menu.html" . -}}
+
+<!-- Remove main menu navigation in header
+{{- partial "main-menu.html" . -}}-->
 <div class="content-container">
 <main>
 {{- block "main" . -}}
 {{- end -}}
 <footer>
+	<!-- remove powered by partial
 {{- partial "main-footer.html" . -}}
 <!-- remove powered by partial
 {{- partial "powered.html" . -}} -->

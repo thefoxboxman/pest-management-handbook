@@ -2,10 +2,10 @@
 title: "Introduction"
 date: 2018-12-29T15:26:15Z
 draft: false
+menu: "main"
+weight: 10
 
 ---
-
-# Introduction
 
 One definition of a pest is, any organism which causes a person discomfort or worry. Many organisms that are classified as pests in the urban environment belong to Class Insects (Insect) and Class Arachnid (spiders, ticks and mites). However many other organisms such as plants, fungi and vertebrate animals are often considered as pest species depending on the situation and the individual. In fact, one person's pest may be another person's pet.
 
