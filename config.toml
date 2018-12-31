@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Urban Pest Management"
-theme = "hugo-theme-techdoc"
+theme = "hugo-theme-techdoc-master"
 [Params]
 description = "Theory and Practice for Australia"
 author = "John De Costa"
