@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/introduction/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/urban-pest-management/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ipm/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/housekeeping-methods/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/physical-methods/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biological-methods/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chemical-methods/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pest-id/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/application-technology/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nozzles/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/calibration/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pesticide-formulation/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/glossary/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-12-29T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
